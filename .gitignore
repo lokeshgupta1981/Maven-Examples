@@ -36,3 +36,10 @@ build/
 
 ### Mac OS ###
 .DS_Store
+/.idea/.gitignore
+/Executable-jar-demo/src/test/java/com/howtodoinjava/AppTest.java
+/src/test/java/com/howtodoinjava/AppTest.java
+/.idea/dbnavigator.xml
+/.idea/encodings.xml
+/.idea/misc.xml
+/.idea/vcs.xml
