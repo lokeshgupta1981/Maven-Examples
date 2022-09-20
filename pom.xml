@@ -10,6 +10,7 @@
   <version>1.0-SNAPSHOT</version>
   <modules>
     <module>Executable-jar-demo</module>
+    <module>RunUnitTests</module>
   </modules>
 
   <name>maven-examples</name>
