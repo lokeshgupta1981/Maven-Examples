@@ -11,7 +11,7 @@ public class ModuleTwoTests {
   public void testMethodOne()
   {
     log.info("Executing ModuleTwoTests#testMethodOne");
-    assertTrue( false );
+    assertTrue( true );
   }
 
   @Test

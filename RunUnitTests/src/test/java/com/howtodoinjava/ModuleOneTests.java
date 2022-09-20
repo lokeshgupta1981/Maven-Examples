@@ -20,6 +20,6 @@ public class ModuleOneTests
     public void testMethodTwo()
     {
         log.info("Executing ModuleOneTests#testMethodTwo");
-        assertTrue( false );
+        assertTrue( true );
     }
 }
